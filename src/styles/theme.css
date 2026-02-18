@@ -1,0 +1,26 @@
+/* 
+ * Theme Configuration
+ * School Colors: Maroon (#941d43) and Silver (#d1d5db)
+ * 
+ * To update colors throughout the site:
+ * 1. Update maroon/silver values in tailwind.config.js
+ * 2. Component styles will automatically inherit the new colors
+ * 
+ * Common maroon usage:
+ * - Primary buttons: maroon-700
+ * - Headings: maroon-800
+ * - Navbar: maroon-900
+ * - Links: maroon-600
+ * 
+ * Common silver usage:
+ * - Backgrounds: silver-50, silver-100
+ * - Borders: silver-300
+ * - Secondary buttons: silver-300
+ * - Text: silver-600, silver-700
+ */
+
+:root {
+  --color-primary: #941d43; /* Maroon */
+  --color-secondary: #d1d5db; /* Silver */
+  --color-accent: #7f1c3e; /* Dark Maroon */
+}
