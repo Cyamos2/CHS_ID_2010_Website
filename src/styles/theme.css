@@ -1,0 +1,53 @@
+/* CHS Class of 2010 Theme - Maroon and Silver */
+
+:root {
+  /* Primary Colors - Maroon */
+  --maroon-primary: #800020;
+  --maroon-light: #a0052d;
+  --maroon-dark: #5c0017;
+  
+  /* Secondary Colors - Silver */
+  --silver-primary: #c0c0c0;
+  --silver-light: #d9d9d9;
+  --silver-dark: #8c8c8c;
+  
+  /* Neutral Colors */
+  --white: #ffffff;
+  --black: #000000;
+  --gray-light: #f5f5f5;
+  --gray-medium: #888888;
+  --gray-dark: #333333;
+}
+
+/* Custom Utility Classes */
+.bg-maroon {
+  background-color: var(--maroon-primary);
+}
+
+.text-maroon {
+  color: var(--maroon-primary);
+}
+
+.bg-silver {
+  background-color: var(--silver-primary);
+}
+
+.text-silver {
+  color: var(--silver-primary);
+}
+
+.border-maroon {
+  border-color: var(--maroon-primary);
+}
+
+.border-silver {
+  border-color: var(--silver-primary);
+}
+
+.hover\:bg-maroon:hover {
+  background-color: var(--maroon-primary);
+}
+
+.hover\:text-silver:hover {
+  color: var(--silver-primary);
+}
