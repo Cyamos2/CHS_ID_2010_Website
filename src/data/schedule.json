@@ -1,0 +1,22 @@
+[
+  {
+    "time": "6:00 PM",
+    "event": "Registration & Check-in",
+    "description": "Pick up your name tag and reunion swag"
+  },
+  {
+    "time": "7:00 PM",
+    "event": "Welcome Reception",
+    "description": "Cocktails and appetizers"
+  },
+  {
+    "time": "8:00 PM",
+    "event": "Dinner",
+    "description": "Sit down dinner with classmates"
+  },
+  {
+    "time": "9:30 PM",
+    "event": "Dancing & Entertainment",
+    "description": "DJ playing hits from our era"
+  }
+]
