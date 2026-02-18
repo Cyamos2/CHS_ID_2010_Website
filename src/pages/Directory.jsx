@@ -11,7 +11,7 @@ const Directory = () => {
   }, []);
 
   const filteredClassmates = classmates.filter(classmate =>
-    classmate.name.toLowerCase().includes(searchTerm.toLowerCase())
+    classmate?.name?.toLowerCase().includes(searchTerm.toLowerCase())
   );
 
   return (
