@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "Prom Night 2010",
+    "description": "What an unforgettable night at the CDA Resort!",
+    "imageUrl": "/images/class-2010/prom-placeholder.jpg",
+    "author": "Jane Smith",
+    "date": "2010-05-15",
+    "tags": ["prom", "dance", "formal"]
+  },
+  {
+    "id": 2,
+    "title": "Senior Sunrise",
+    "description": "Watching the sunrise together at Tubbs Hill.",
+    "imageUrl": "/images/class-2010/sunrise-placeholder.jpg",
+    "author": "Mike Johnson",
+    "date": "2010-09-01",
+    "tags": ["senior", "tradition", "sunrise"]
+  },
+  {
+    "id": 3,
+    "title": "State Championship",
+    "description": "Victory at the state championship game!",
+    "imageUrl": "/images/class-2010/championship-placeholder.jpg",
+    "author": "Sarah Williams",
+    "date": "2009-11-20",
+    "tags": ["sports", "victory", "football"]
+  }
+]
