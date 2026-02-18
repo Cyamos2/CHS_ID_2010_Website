@@ -250,4 +250,4 @@ This project is private and for use by the CHS Class of 2010 only.
 
 ---
 
-**Go Centennial Patriots! 🏈**
+**Go Patriots! 🏈**
