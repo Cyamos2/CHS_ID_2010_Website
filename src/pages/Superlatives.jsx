@@ -49,7 +49,7 @@ export default function Superlatives() {
       </div>
 
       <div className="mt-12 bg-maroon-50 border-l-4 border-maroon-600 p-6 rounded-r-lg">
-        <h3 className="text-xl font-bold text-maroon-800 mb-3">2030 Reunion Superlatives</h3>
+        <h3 className="text-xl font-bold text-maroon-800 mb-3">Reunion Superlatives</h3>
         <p className="text-gray-700 mb-4">
           At the reunion, we&apos;ll be voting on new superlatives! Categories include:
         </p>

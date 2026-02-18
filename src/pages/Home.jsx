@@ -12,7 +12,7 @@ export default function Home() {
           20 Year Reunion
         </h2>
         <p className="text-xl text-gray-700 mb-8">
-          August 15-17, 2030 | Coeur d&apos;Alene, Idaho
+          Date and Location To Be Announced
         </p>
         <Link to="/rsvp" className="btn-primary text-lg">
           RSVP Now
@@ -27,7 +27,7 @@ export default function Home() {
           for an unforgettable weekend of reconnection, reminiscing, and celebration.
         </p>
         <p className="text-gray-700 text-lg">
-          Join us in beautiful Coeur d&apos;Alene for a weekend filled with great food, music, memories, 
+          Join us for a weekend filled with great food, music, memories, 
           and the chance to catch up with old friends. Whether you&apos;ve kept in touch or it&apos;s been 
           years since we&apos;ve seen each other, we can&apos;t wait to see you there!
         </p>
@@ -58,8 +58,7 @@ export default function Home() {
       <div className="mt-12 bg-maroon-50 border-l-4 border-maroon-600 p-6 rounded-r-lg">
         <h3 className="text-xl font-bold text-maroon-800 mb-3">Important Information</h3>
         <ul className="space-y-2 text-gray-700">
-          <li>✓ RSVP deadline: July 1, 2030</li>
-          <li>✓ Hotel room blocks available until July 15, 2030</li>
+          <li>✓ Date and location details coming soon</li>
           <li>✓ Registration fee: $75 per person (includes all events)</li>
           <li>✓ Questions? Contact us at reunion@chs2010.com</li>
         </ul>

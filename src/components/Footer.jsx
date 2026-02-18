@@ -5,7 +5,7 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           <div>
             <h3 className="text-lg font-bold mb-3">CHS Class of 2010</h3>
-            <p className="text-silver-200">20 Year Reunion - August 2030</p>
+            <p className="text-silver-200">20 Year Reunion - Details Coming Soon</p>
           </div>
           
           <div>

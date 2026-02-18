@@ -11,7 +11,7 @@ export default function RSVP() {
           if you&apos;ll be joining us.
         </p>
         <p className="text-gray-600">
-          RSVP deadline: <strong className="text-maroon-700">July 1, 2030</strong>
+          Date and RSVP deadline will be announced soon
         </p>
       </div>
 
