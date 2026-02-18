@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "firstName": "John",
+    "lastName": "Doe",
+    "nickname": "JD",
+    "email": "john.doe@example.com",
+    "phone": "",
+    "city": "Boise",
+    "state": "ID",
+    "occupation": "Software Engineer",
+    "employer": "Tech Company",
+    "bio": "Living in Boise, working in tech.",
+    "photoUrl": "/images/class-2010/placeholder.jpg",
+    "isAttending": true,
+    "plusOne": false
+  }
+]

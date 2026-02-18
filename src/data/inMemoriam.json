@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1,
+    "firstName": "Example",
+    "lastName": "Name",
+    "dateOfBirth": "1991-03-15",
+    "dateOfPassing": "2020-06-10",
+    "photoUrl": "/images/class-2010/memorial-placeholder.jpg",
+    "biography": "A beloved classmate who will be forever missed. Add personal memories and tributes here.",
+    "obituaryUrl": "",
+    "tributes": [
+      {
+        "author": "Friend Name",
+        "date": "2020-06-15",
+        "message": "You will be deeply missed. Your smile brightened every room."
+      }
+    ]
+  }
+]

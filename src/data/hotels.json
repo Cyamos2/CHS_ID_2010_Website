@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "name": "The Coeur d'Alene Resort",
+    "address": "115 S 2nd St, Coeur d'Alene, ID 83814",
+    "phone": "(208) 765-4000",
+    "website": "https://www.cdaresort.com",
+    "groupCode": "CHS2010",
+    "rate": "$199/night",
+    "distance": "0.5 miles from venue",
+    "amenities": ["Pool", "Spa", "Restaurant", "Parking"]
+  },
+  {
+    "id": 2,
+    "name": "Hampton Inn",
+    "address": "1500 Riverstone Dr, Coeur d'Alene, ID 83814",
+    "phone": "(208) 676-0222",
+    "website": "https://www.hilton.com",
+    "groupCode": "CHS2010",
+    "rate": "$159/night",
+    "distance": "2 miles from venue",
+    "amenities": ["Free Breakfast", "Pool", "Parking", "WiFi"]
+  },
+  {
+    "id": 3,
+    "name": "Holiday Inn Express",
+    "address": "2209 E Sherman Ave, Coeur d'Alene, ID 83814",
+    "phone": "(208) 667-3100",
+    "website": "https://www.ihg.com",
+    "groupCode": "CHS2010",
+    "rate": "$139/night",
+    "distance": "1.5 miles from venue",
+    "amenities": ["Free Breakfast", "Pool", "Parking", "WiFi"]
+  }
+]
